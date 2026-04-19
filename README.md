@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Kansas
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 31 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `988202` |
 | Location | Kansas |
 | Category | Food and Drink |
-| Full dataset size | 263 records |
-| Free sample size | 26 records (9.89%) |
-| Last export | 2026-04-09T19:20:25.318639+00:00 |
+| Full dataset size | 313 records |
+| Free sample size | 31 records (9.9%) |
+| Last export | 2026-04-16T22:50:02.331710+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-988202/releases/download/sample-latest/beamstation_988202_food_and_drink-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
